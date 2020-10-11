@@ -32,3 +32,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# Next build output
+.next
+
+# Webstorm
+.idea
+/next-env.d.ts
